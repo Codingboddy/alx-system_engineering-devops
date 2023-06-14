@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -al | sort | uniq | /etc/ssh/sshd_config
